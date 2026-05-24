@@ -1,13 +1,8 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ██████╗ ██╗ █████╗     ███╗   ██╗ ██████╗  ██████╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗    ████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗
-██████╔╝███████║██████╔╝██████╔╝██║███████║    ██╔██╗ ██║██║   ██║██║   ██║██████╔╝
-██╔══██╗██╔══██║██╔══██╗██╔══██╗██║██╔══██║    ██║╚██╗██║██║   ██║██║   ██║██╔══██╗
-██║  ██║██║  ██║██████╔╝██████╔╝██║██║  ██║    ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=1&pause=99999&color=A29BFE&center=true&vCenter=true&width=700&height=80&lines=RABBIA+NOOR)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI+Enthusiast+%7C+BSCS+%40+FJWU;Building+real+apps+that+ship+and+get+used+%F0%9F%9A%80;React+Native+%7C+ASP.NET+Core+%7C+Machine+Learning;Open+to+internships+%26+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
