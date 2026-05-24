@@ -1,13 +1,10 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██████╗ ██████╗ ██╗ █████╗     ███╗   ██╗ ██████╗  ██████╗ ██████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗    ████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗
-██████╔╝███████║██████╔╝██████╔╝██║███████║    ██╔██╗ ██║██║   ██║██║   ██║██████╔╝
-██╔══██╗██╔══██║██╔══██╗██╔══██╗██║██╔══██║    ██║╚██╗██║██║   ██║██║   ██║██╔══██╗
-██║  ██║██║  ██║██████╔╝██████╔╝██║██║  ██║    ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Rabbia%20Noor&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=—%20SOFTWARE%20DEVELOPER%20/%20AI%20ENTHUSIAST%20—&descSize=13&descAlignY=58&fontStyle=italic" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+real+apps+that+ship+%F0%9F%9A%80;React+Native+%7C+ASP.NET+Core+%7C+Firebase;Machine+Learning+%7C+Python+%7C+SQL;Intern+%40+Army+Welfare+Trust+%7C+CGPA+3.78;Open+to+internships+%26+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI+Enthusiast+%7C+BSCS+%40+FJWU;Building+real+apps+that+ship+and+get+used+%F0%9F%9A%80;React+Native+%7C+ASP.NET+Core+%7C+Machine+Learning;Open+to+internships+%26+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
