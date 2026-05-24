@@ -2,26 +2,18 @@
 <!-- Dynamic Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=Rabbia%20Noor&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=—%20SOFTWARE%20DEVELOPER%20/%20AI%20ENTHUSIAST%20—&descSize=13&descAlignY=58&fontStyle=italic" />
 
-<!-- Sliding / Typing Text Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;AI+%26+Machine+Learning+Engineer;Mobile+App+Developer+(React+Native);Data+Science+Enthusiast" alt="Typing SVG" />
-</a>
+<br> 
 
-<!-- Profile Badges -->
-<a href="https://github.com/Rabbia-Noor" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:your.email@domain.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<br><br>
+<!-- Quick Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 </div>
-
----
 
 ✦ Who I Am
 I'm **Rabbia Noor** — a CS student at Fatima Jinnah Women University, Rawalpindi (**CGPA: 3.78 / 4.0**) who builds things that go beyond coursework and actually get shipped.
