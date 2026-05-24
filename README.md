@@ -3,7 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=1&pause=99999&color=A29BFE&center=true&vCenter=true&width=700&height=80&lines=RABBIA+NOOR)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&style=italic&size=14&duration=3000&pause=1000&color=636E72&center=true&vCenter=true&width=700&lines=%23+software+developer+·+ai+enthusiast+·+bscs+%40+fjwu)](https://git.io/typing-svg)
 
+![React Native](https://img.shields.io/badge/React_Native-6C63FF?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=A29BFE)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-6C63FF?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
+![Python](https://img.shields.io/badge/Python-A29BFE?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-A29BFE?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
+
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI+Enthusiast+%7C+BSCS+%40+FJWU;Building+real+apps+that+ship+and+get+used+%F0%9F%9A%80;React+Native+%7C+ASP.NET+Core+%7C+Machine+Learning;Open+to+internships+%26+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br>
