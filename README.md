@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Rabbia%20Noor&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=—%20SOFTWARE%20DEVELOPER%20/%20AI%20ENTHUSIAST%20—&descSize=13&descAlignY=58&fontStyle=italic" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=220&section=header&text=Rabbia%20%3Cspan%3ENoor%3C%2Fspan%3E&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=—%20SOFTWARE%20DEVELOPER%20/%20AI%20ENTHUSIAST%20—&descSize=13&descAlignY=58&fontStyle=italic" />
 
-
-
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI+Enthusiast+%7C+BSCS+%40+FJWU;Building+real+apps+that+ship+and+get+used+%F0%9F%9A%80;React+Native+%7C+ASP.NET+Core+%7C+Machine+Learning;Open+to+internships+%26+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+real+apps+that+ship+%F0%9F%9A%80;React+Native;ASP.NET+Core;Machine+Learning;Python+%7C+SQL;Firebase;Intern+%40+Army+Welfare+Trust;CGPA+3.78+%7C+FJWU;Open+to+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br>
 
@@ -84,16 +80,12 @@ I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalp
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rabbia-Noor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbia-Noor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rabbia-Noor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbia-Noor&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
-<br/><br/>
+<br><br>
 
-![Streak](https://streak-stats.demolab.com?user=Rabbia-Noor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabbia-Noor&theme=tokyo-night&hide_border=true&area=true&area_color=6c63ff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabbia-Noor&theme=tokyo-night&hide_border=true&area=true&area_color=6c63ff&color=6c63ff&line=6c63ff&point=ffffff" width="95%"/>
 
 </div>
 
@@ -115,5 +107,5 @@ I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalp
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" />
 </div>
