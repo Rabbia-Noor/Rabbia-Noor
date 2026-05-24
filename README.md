@@ -1,22 +1,20 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=Rabbia%20Noor&fontSize=55&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20BSCS%20%40%20FJWU&descSize=16&descAlignY=75&fontAlignY=45" />
-</div>
+
+```
+██████╗  █████╗ ██████╗ ██████╗ ██╗ █████╗     ███╗   ██╗ ██████╗  ██████╗ ██████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗    ████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗
+██████╔╝███████║██████╔╝██████╔╝██║███████║    ██╔██╗ ██║██║   ██║██║   ██║██████╔╝
+██╔══██╗██╔══██║██╔══██╗██╔══██╗██║██╔══██║    ██║╚██╗██║██║   ██║██║   ██║██╔══██╗
+██║  ██║██║  ██║██████╔╝██████╔╝██║██║  ██║    ██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+AI+Enthusiast+%7C+BSCS+%40+FJWU;Building+real+apps+that+ship+and+get+used+%F0%9F%9A%80;React+Native+%7C+ASP.NET+Core+%7C+Machine+Learning;Open+to+internships+%26+collaborations+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
 <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+apps+that+actually+get+used+%F0%9F%9A%80;Full-Stack+%7C+Mobile+%7C+Machine+Learning;Intern+%40+Army+Welfare+Trust+%7C+CGPA+3.78;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://rabbia-noor.github.io/portfolio/index.html)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbianoor)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rabbia-Noor)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge)](https://rabbia-noor.github.io/portfolio/index.html)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbianoor)
 
 </div>
 
@@ -24,12 +22,28 @@
 
 ## ✦ Who I Am
 
-I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalpindi** who builds things that go beyond coursework and actually get shipped and used.
+I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalpindi** (CGPA: **3.78 / 4.0**) who builds things that go beyond coursework and actually get shipped.
 
-- 🏢 **Web App Developer Intern** at Army Welfare Trust — built production-grade REST APIs with JWT auth & role-based access
-- 📱 Built a **React Native election app** actively used for official society elections at FJWU
+- 🏢 **Web App Developer Intern** at **Army Welfare Trust** — production REST APIs, JWT auth, role-based access
+- 📱 Built a **React Native election app** actively used for official FJWU society elections
 - 🤖 **Machine Learning Specialization** certified under Andrew Ng (DeepLearning.AI)
+- 🌱 Currently exploring cloud deployment & advanced ML pipelines
 - 📍 Rawalpindi, Pakistan 🇵🇰
+
+---
+
+## 🎬 What Drives Me
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+<!-- Click the image below to watch a coding inspiration video -->
+<div align="center">
+<a href="https://www.youtube.com/watch?v=qYNweeDHiyU" target="_blank">
+<img src="https://img.youtube.com/vi/qYNweeDHiyU/maxresdefault.jpg" alt="Coding video" width="600" style="border-radius:12px"/>
+</a>
+
+<br><sub>▶ Click to watch</sub>
+</div>
 
 ---
 
@@ -88,16 +102,13 @@ I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalp
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rabbia-Noor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbia-Noor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rabbia-Noor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbia-Noor&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
-![Streak](https://streak-stats.demolab.com?user=Rabbia-Noor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<br><br>
 
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabbia-Noor&theme=tokyo-night&hide_border=true&area=true&area_color=6c63ff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabbia-Noor&theme=tokyo-night&hide_border=true&area=true&area_color=6c63ff&color=6c63ff&line=6c63ff&point=ffffff" width="95%"/>
 
 </div>
 
@@ -105,18 +116,18 @@ I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalp
 
 ## 🤝 Open To
 
-`Internships` &nbsp;•&nbsp; `Collaborations` &nbsp;•&nbsp; `Open Source` &nbsp;•&nbsp; `Research Projects`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbianoor)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6C63FF?style=for-the-badge&logoColor=white)](https://rabbia-noor.github.io/portfolio/index.html)
+`Internships` &nbsp;•&nbsp; `Collaborations` &nbsp;•&nbsp; `Open Source` &nbsp;•&nbsp; `Research Projects`
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rabbia-Noor.Rabbia-Noor&left_color=6c63ff&right_color=ff6584)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rabbianoor)&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6C63FF?style=for-the-badge)](https://rabbia-noor.github.io/portfolio/index.html)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
