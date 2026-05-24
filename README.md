@@ -32,21 +32,6 @@ I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalp
 
 ---
 
-## 🎬 What Drives Me
-
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
-
-<!-- Click the image below to watch a coding inspiration video -->
-<div align="center">
-<a href="https://www.youtube.com/watch?v=qYNweeDHiyU" target="_blank">
-<img src="https://img.youtube.com/vi/qYNweeDHiyU/maxresdefault.jpg" alt="Coding video" width="600" style="border-radius:12px"/>
-</a>
-
-<br><sub>▶ Click to watch</sub>
-</div>
-
----
-
 ## ⚡ Tech Stack
 
 <div align="center">
@@ -102,13 +87,16 @@ I'm **Rabbia Noor** — a CS student at **Fatima Jinnah Women University, Rawalp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rabbia-Noor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rabbia-Noor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbia-Noor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabbia-Noor&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<br/><br/>
 
-<br><br>
+![Streak](https://streak-stats.demolab.com?user=Rabbia-Noor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabbia-Noor&theme=tokyo-night&hide_border=true&area=true&area_color=6c63ff&color=6c63ff&line=6c63ff&point=ffffff" width="95%"/>
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rabbia-Noor&theme=tokyo-night&hide_border=true&area=true&area_color=6c63ff)
 
 </div>
 
